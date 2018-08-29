@@ -1,2 +1,4 @@
 # tesing-git
-Learning curve
+Learning to use GitHub
+
+From the Tutorial
